@@ -8,7 +8,7 @@ public class TransferFundApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(TransferFundApplication.class, args);
-		System.out.print("added new codes");
+		System.out.print("added new codes ");
 	}
 
 }
